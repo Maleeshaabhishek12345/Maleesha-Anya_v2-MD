@@ -39,8 +39,8 @@ global.ownernumber = ["94771732529"]
 global.ytname = "YT: Sl Short Edits"
 global.continent = "Asia" // your continent name 
 global.region = "Sri_Lanka"
-global.state = "Enter Your State Name Here" // your state name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
+global.state = "Colombo" // your state name
+global.timezone = "Asia/Colombo" // search on google if you don't know the timezone of your country //
 global.instagramId = "Enter Your Insta ID Here"
 global.email = "xdevilfreefire123@gmail.com"
 
